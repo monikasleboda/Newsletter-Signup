@@ -12,19 +12,21 @@ body {
   z-index: 2;
 }
 
+.copyright {
+  text-align: center;
+}
+
 .top {
-  margin-bottom: -1px;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+  margin-bottom: 10px;
+  border-radius: -1px;
 }
 
 .middle {
-  border-radius: 0;
-  margin-bottom: -1px;
+  margin-bottom: 10px;
+  border-radius: -1px;
 }
 
 .bottom {
   margin-bottom: 10px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
+  border-radius: -1px;
 }
